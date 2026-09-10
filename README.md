@@ -4,9 +4,9 @@
 
 🕵️‍♀️ Ex-agente de recherches privées (ARP)   
 🎓 3ème année de Bachelor Cybersécurité en alternance (Administration Sys & Réseaux Sécurisés)  
-🔎 En recherche d'une alternance pour mon Master (sept. 2027)  
-🎯 Objectif : SOC Analyst / Cyber Threat Intelligence, avec un œil sur l'OT/ICS  
 🤝 Membre du CEFCYS (Cercle des Femmes de la Cybersécurité)  
+🎯 Objectif : SOC Analyst / Cyber Threat Intelligence, avec un œil sur l'OT/ICS  
+🔎 En recherche d'une alternance pour mon Master (sept. 2027)  
 📍 Nouvelle-Aquitaine, France  
 
 Oui oui, j'ai déjà scanné mon propre réseau domestique.
@@ -63,7 +63,7 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 ## 🔎 Outils de sécurité
 
-![Nmap](https://img.shields.io/badge/Nmap-black?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-CE0000?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
@@ -71,7 +71,7 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 ![Stormshield](https://img.shields.io/badge/Stormshield-005C9C?style=flat)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-000000?style=flat&logo=gns3&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-1F8A70?style=flat&logo=gns3&logoColor=white)
 
 ## 🏆 Certifications
 
