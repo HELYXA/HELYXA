@@ -4,8 +4,9 @@
 
 🕵️‍♀️ Ex-agente de recherches privées (ARP)   
 🎓 3ème année de Bachelor Cybersécurité en alternance (Administration Sys & Réseaux Sécurisés)  
-🎯 Objectif : SOC Analyst / Cyber Threat Intelligence, avec un œil sur l'OT/ICS  
 🔎 En recherche d'une alternance pour mon Master (sept. 2027)  
+🎯 Objectif : SOC Analyst / Cyber Threat Intelligence, avec un œil sur l'OT/ICS  
+🤝 Membre du CEFCYS (Cercle des Femmes de la Cybersécurité)  
 📍 Nouvelle-Aquitaine, France  
 
 Oui oui, j'ai déjà scanné mon propre réseau domestique.
@@ -74,10 +75,10 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 ## 🏆 Certifications
 
-- 🎓 **Junior Cybersecurity Analyst** — Cisco (2025, en cours)
-- 🛡️ **SecNumAcadémie - Cybersécurité** — ANSSI (2025)
-- 📄 **MOOC RGPD** — CNIL (2025)
-- 🔐 **MOOC Protection du secret de la défense nationale** — DRSD (2025)
+- 🎓 **Junior Cybersecurity Analyst** - Cisco (2025, en cours)
+- 🛡️ **SecNumAcadémie - Cybersécurité** - ANSSI (2025)
+- 📄 **MOOC RGPD** - CNIL (2025)
+- 🔐 **MOOC Protection du secret de la défense nationale** - DRSD (2025)
 
 ---
 
@@ -85,29 +86,14 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 En dehors du clavier, je cultive les mêmes réflexes qu'en cyber : observer, analyser, anticiper.
 
-🏋️‍♀️ **Musculation & cardio** — la discipline du quotidien, parce que la progression ne s'improvise pas, en salle comme en cybersécurité
-🤖 **Robots & drones** — fascination pour l'autonomie, la mécanique et l'intelligence embarquée
-♟️ **Échecs** — stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces
-📸 **Photographie de faune et flore** — capturer le détail que personne ne remarque, une autre forme d'investigation visuelle
-🕹️ **Jeux vidéo** — stratégie, immersion, réflexion, un terrain d'expérimentation numérique à part entière
+🏋️‍♀️ **Musculation & cardio** : la discipline du quotidien, parce que la progression ne s'improvise pas, en salle comme en cybersécurité
+🤖 **Robots & drones** : fascination pour l'autonomie, la mécanique et l'intelligence embarquée
+♟️ **Échecs** : stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces
+📸 **Photographie de faune et flore** : capturer le détail que personne ne remarque, une autre forme d'investigation visuelle
+🕹️ **Jeux vidéo** : stratégie, immersion, réflexion, un terrain d'expérimentation numérique à part entière
 
 ---
 
-📩 N'hésite pas à me contacter pour parler cybersécurité, infra, ou opportunités en alternance.
+📩 N'hésite pas à me contacter pour parler cyber, infra, ou opportunités en alternance.
 
 *Réponse plus rapide qu'un scan Nmap en mode agressif (mais tout aussi discrète).*
-
-<!--
-**HELYXA/HELYXA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
