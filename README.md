@@ -17,7 +17,7 @@ Construire une infra, la comprendre de bout en bout, puis chercher ce qui pourra
 
 ## 🚀 Projets phares
 
-### 📡 [RaspberryPi_Sentinelle_NetworkMonitor](lien-vers-le-repo)
+### 📡 [RaspberryPi_Sentinelle_NetworkMonitor](https://github.com/HELYXA/RaspberryPi_Sentinelle_NetworkMonitor)
 
 Raspberry Pi 5 transformé en sonde de surveillance réseau domestique : détection de nouveaux appareils, IDS temps réel, alertes Telegram et dashboard web.
 
@@ -28,13 +28,19 @@ Raspberry Pi 5 transformé en sonde de surveillance réseau domestique : détect
 
 `Python` `Raspberry Pi` `Suricata` `Flask` `Telegram Bot`
 
-### 🔍 [Wireshark_Python_Analysis](lien-vers-le-repo)
+### 🛡️ [Lab_Securisee_Projet_B2](https://github.com/HELYXA/Lab_Securisee_Projet_B2)
 
-Capture de trafic UDP avec Wireshark, puis analyse et détection heuristique d'anomalies avec Python.
+Conception, déploiement et supervision d'une infrastructure système et réseau complète, de zéro, pour une startup fictive de joaillerie en ligne.
 
-`Python` `Jupyter Notebook` `pandas` `matplotlib`
+- **Active Directory** complet (DHCP, DNS, partage de fichiers) sur Windows Server 2022
+- **Poste client Windows 10** et **Kali Linux** en réseau segmenté
+- **Application PHP dynamique** sur stack Apache/MySQL/PHP
+- **Supervision** : Zabbix déployé via Docker
+- **Test de résilience** : simulation de bruteforce RDP avec Hydra
 
-### 🏙️ [IOT_Smart_City_Network](lien-vers-le-repo)
+`Windows Server` `Active Directory` `PowerShell` `Apache` `MySQL` `PHP` `Docker` `Zabbix`
+
+### 🏙️ [IOT_Smart_City_Network](https://github.com/HELYXA/IOT_Smart_City_Network)
 
 Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains, véhicules connectés, isolation réseau et contrôle d'accès.
 
