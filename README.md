@@ -9,8 +9,6 @@
 🔎 En recherche d'une alternance pour mon Master (sept. 2027)  
 📍 Nouvelle-Aquitaine, France  
 
-Oui oui, j'ai déjà scanné mon propre réseau domestique.
-
 Construire une infra, la comprendre de bout en bout, puis chercher ce qui pourrait la faire tomber. C'est un peu mon nouveau terrain d'enquête.
 
 ---
