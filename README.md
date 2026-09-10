@@ -75,7 +75,7 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 ## 🏆 Certifications
 
-- 🎓 **Junior Cybersecurity Analyst** - Cisco (2025, en cours)
+- 🎓 **Junior Cybersecurity Analyst** - Cisco (en cours)
 - 🛡️ **SecNumAcadémie - Cybersécurité** - ANSSI (2025)
 - 📄 **MOOC RGPD** - CNIL (2025)
 - 🔐 **MOOC Protection du secret de la défense nationale** - DRSD (2025)
@@ -86,14 +86,14 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 En dehors du clavier, je cultive les mêmes réflexes qu'en cyber : observer, analyser, anticiper.
 
-🏋️‍♀️ **Musculation & cardio** : la discipline du quotidien, parce que la progression ne s'improvise pas, en salle comme en cybersécurité
-🤖 **Robots & drones** : fascination pour l'autonomie, la mécanique et l'intelligence embarquée
-♟️ **Échecs** : stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces
-📸 **Photographie de faune et flore** : capturer le détail que personne ne remarque, une autre forme d'investigation visuelle
-🕹️ **Jeux vidéo** : stratégie, immersion, réflexion, un terrain d'expérimentation numérique à part entière
+🏋️‍♀️ **Musculation & cardio** : la discipline du quotidien, parce que la progression ne s'improvise pas, en salle comme en cybersécurité  
+🤖 **Robots & drones** : fascination pour l'autonomie, la mécanique et l'intelligence embarquée  
+♟️ **Échecs** : stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces  
+📸 **Photographie de faune et flore** : capturer le détail que personne ne remarque, une autre forme d'investigation visuelle  
+🕹️ **Jeux vidéo** : stratégie, immersion, réflexion, un terrain d'expérimentation numérique à part entière  
 
 ---
 
-📩 N'hésite pas à me contacter pour parler cyber, infra, ou opportunités en alternance.
+📩 N'hésite pas à me contacter sur [LinkedIn](https://fr.linkedin.com/in/helvy-hupont-grenat) pour parler cyber, infra, ou opportunités en alternance ! 
 
 *Réponse plus rapide qu'un scan Nmap en mode agressif (mais tout aussi discrète).*
