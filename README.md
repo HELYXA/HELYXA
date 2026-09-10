@@ -5,6 +5,7 @@
 🕵️‍♀️ Ex-agente de recherches privées (ARP)   
 🎓 3ème année de Bachelor Cybersécurité en alternance (Administration Sys & Réseaux Sécurisés)  
 🎯 Objectif : SOC Analyst / Cyber Threat Intelligence, avec un œil sur l'OT/ICS  
+🔎 En recherche d'une alternance pour mon Master (sept. 2027)  
 📍 Nouvelle-Aquitaine, France  
 
 Oui oui, j'ai déjà scanné mon propre réseau domestique.
