@@ -79,23 +79,14 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 ## 🏆 Certifications
 
-**🕵️‍♀️ Carte professionnelle Agent de Recherches Privées**
-![CNAPS](https://img.shields.io/badge/CNAPS-000091?style=flat&logoColor=white)
-
-**🏢 Agrément dirigeant d'une agence de recherches privées**
-![CNAPS](https://img.shields.io/badge/CNAPS-000091?style=flat&logoColor=white)
-
-**🎓 Junior Cybersecurity Analyst** *(en cours)*
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
-**🛡️ MOOC Cybersécurité**
-![ANSSI](https://img.shields.io/badge/ANSSI-000091?style=flat&logoColor=white)
-
-**📄 RGPD - Règlement Général sur la Protection des Données**
-![CNIL](https://img.shields.io/badge/CNIL-FFCD00?style=flat&logoColor=black)
-
-**🔐 Protection du Secret de la Défense Nationale**
-![DRSD](https://img.shields.io/badge/DRSD-000091?style=flat&logoColor=white)
+| Certification | Organisme |
+|---|---|
+| 🕵️‍♀️ Carte professionnelle Agent de Recherches Privées | ![CNAPS](https://img.shields.io/badge/CNAPS-000091?style=flat&logoColor=white) Conseil National des Activités Privées de Sécurité |
+| 🏢 Agrément dirigeant d'une agence de recherches privées | ![CNAPS](https://img.shields.io/badge/CNAPS-000091?style=flat&logoColor=white) Conseil National des Activités Privées de Sécurité |
+| 🎓 Junior Cybersecurity Analyst *(en cours)* | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) |
+| 🛡️ MOOC Cybersécurité | ![ANSSI](https://img.shields.io/badge/ANSSI-000091?style=flat&logoColor=white) Agence Nationale de la Sécurité des Systèmes d'Information |
+| 📄 RGPD - Règlement Général sur la Protection des Données | ![CNIL](https://img.shields.io/badge/CNIL-FFCD00?style=flat&logoColor=black) Commission Nationale de l'Informatique et des Libertés |
+| 🔐 Protection du Secret de la Défense Nationale | ![DRSD](https://img.shields.io/badge/DRSD-000091?style=flat&logoColor=white) Direction du Renseignement et de la Sécurité de la Défense |
 
 ---
 
