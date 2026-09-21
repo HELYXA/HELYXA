@@ -13,7 +13,7 @@ Construire une infra, la comprendre de bout en bout, puis chercher ce qui pourra
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets clés
 
 ### 📡 [RaspberryPi_Sentinelle_NetworkMonitor](https://github.com/HELYXA/RaspberryPi_Sentinelle_NetworkMonitor)
 
