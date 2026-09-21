@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Helvy
+# Bienvenue sur mon profil 👋 Moi, c'est Helvy !
 
 **Du renseignement humain au renseignement cyber.**
 
