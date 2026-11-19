@@ -92,13 +92,13 @@ Conception d'une infrastructure réseau pour une "Smart City" : capteurs urbains
 
 ## 🎯 Et en dehors du clavier ?
 
-En dehors du clavier, je cultive les mêmes réflexes qu'en cyber : observer, analyser, anticiper.
+En dehors du clavier, je cultive les mêmes réflexes qu'en cyber : **observer, analyser, anticiper.**
 
-🏋️‍♀️ **Musculation & cardio** : la discipline du quotidien, parce que la progression ne s’improvise pas, en salle comme en cybersécurité
-🥁 **Batterie** : rythme, coordination et concentration, une rigueur qui se travaille à chaque séance, comme une veille technique
-♟️ **Échecs** : stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces
-📸 **Photographie de faune et flore** : capturer le détail que personne ne remarque, une autre forme d’investigation visuelle
-🕹️ **Jeux vidéo** : stratégie, immersion, réflexion, un autre terrain d'expérimentation numérique
+- 🏋️‍♀️ **Musculation & cardio** : la discipline du quotidien, parce que la progression ne s'improvise pas, en salle comme en cybersécurité
+- 🥁 **Batterie** : rythme, coordination et concentration, une rigueur qui se travaille à chaque séance, comme une veille technique
+- ♟️ **Échecs** : stratégie, anticipation, prise de décision sous contrainte, exactement comme une analyse de menaces
+- 📸 **Photographie de faune et flore** : capturer le détail que personne ne remarque, une autre forme d'investigation visuelle
+- 🕹️ **Jeux vidéo** : stratégie, immersion, réflexion, un terrain d'expérimentation numérique à part entière
 ---
 
 📩 N'hésite pas à me contacter sur [LinkedIn](https://fr.linkedin.com/in/helvy-hupont-grenat) pour parler cyber, infra, ou opportunités en alternance ! 
